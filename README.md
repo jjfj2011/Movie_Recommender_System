@@ -1,4 +1,5 @@
 # Sistema de recomendación de películas
+![series-netflix](https://github.com/user-attachments/assets/d8d36142-0049-45c8-9589-5e829db4e6bd)
 ## Descripción
 Este repositorio contiene un sistema de recomendación de películas, diseñado para mejorar la experiencia del usuario en una plataforma de streaming. Se utiliza varias técnicas de recomendación, incluyendo métodos no personalizados, basados en contenido y colaborativos.
 ## Problema de negocio
