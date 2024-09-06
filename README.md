@@ -1,7 +1,7 @@
 # Sistema de recomendación de películas
 ![series-netflix](https://github.com/user-attachments/assets/d8d36142-0049-45c8-9589-5e829db4e6bd)
 ## Descripción
-Este repositorio contiene un sistema de recomendación de películas, diseñado para mejorar la experiencia del usuario en una plataforma de streaming. Se utilizan varias técnicas de recomendación, incluyendo métodos no personalizados, basados en contenido y colaborativos.
+Este repositorio contiene un sistema de recomendación de películas, que está diseñado para mejorar la experiencia del usuario en una plataforma de streaming. Se utilizan varias técnicas de recomendación, incluyendo métodos no personalizados, basados en contenido y colaborativos.
 ## Problema de negocio
 En el contexto de plataformas de streaming, la capacidad de utilizar datos para optimizar la experiencia del usuario es fundamental. El objetivo es aprovechar los datos disponibles para desarrollar un sistema de recomendación de películas personalizado, que proporcione sugerencias precisas y relevantes. Nos encargaremos de analizar estos datos utilizando Python, para construir un recomendador de películas que transformará la manera en que los usuarios descubren nuevo contenido, mejorando significativamente su experiencia y satisfacción
 ## Sistemas de Recomendación Utilizados
