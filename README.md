@@ -16,4 +16,4 @@ En este proyecto, se han implementado varias estrategias de recomendación para 
 3. **Recomendación Basada en Filtro Colaborativo**:
    - **KNN (K-Nearest Neighbors)**: Utiliza un modelo de KNN basado en la similitud de coseno para encontrar usuarios similares y recomendar películas en función de las calificaciones de estos usuarios similares. Esta técnica considera las preferencias de otros usuarios con perfiles similares para hacer recomendaciones personalizadas.
 
-Cada uno de estos métodos se han implementado y evaluado para proporcionar recomendaciones precisas y relevantes, mejorando la experiencia general de los usuarios en la plataforma de streaming.
+Cada uno de estos métodos se han implementado y evaluado para proporcionar recomendaciones precisas y relevantes, con el fin de mejorar la experiencia general de los usuarios en la plataforma de streaming.
