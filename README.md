@@ -10,7 +10,7 @@ En este proyecto, se han implementado varias estrategias de recomendación para 
 1. **Recomendación No Personalizada**: Se basa en la popularidad de las películas. Se identifican las películas más votadas y con mejores calificaciones promedio para recomendar las más populares a todos los usuarios.
 
 2. **Recomendación Basada en Contenido**:
-   - **Similitud de Jaccard**: Se utiliza la similitud de Jaccard para medir la coincidencia entre los géneros de las películas. Se recomienda películas que comparten un alto grado de similitud en los géneros con una película dada.
+   - **Similitud de Jaccard**: Se utiliza la similitud de Jaccard para medir la coincidencia entre los géneros de las películas. Se recomienda las películas que comparten un alto grado de similitud en los géneros con una película dada.
    - **Similitud de Coseno con TF-IDF**: Se calcula la similitud entre películas, basándose en la representación de texto de sus descripciones utilizando TF-IDF y similitud de coseno. Esto permite recomendar películas similares en función de su contenido textual.
 
 3. **Recomendación Basada en Filtro Colaborativo**:
