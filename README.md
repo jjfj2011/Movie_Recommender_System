@@ -17,3 +17,6 @@ En este proyecto, se han implementado varias estrategias de recomendación para 
    - **KNN (K-Nearest Neighbors)**: Se utiliza un modelo de KNN basado en la similitud de coseno para encontrar usuarios similares y recomendar películas en función de las calificaciones de estos usuarios similares. Esta técnica considera las preferencias de otros usuarios con perfiles similares para hacer recomendaciones personalizadas.
 
 Cada uno de estos métodos se han implementado y evaluado para proporcionar recomendaciones precisas y relevantes, con el fin de mejorar la experiencia general de los usuarios en la plataforma de streaming.
+
+Puedes visualizar la aplicación en Streamlit en el siguiente enlace:
+[Ver la aplicación en Streamlit](https://movie-recommender-system-2024-2.streamlit.app)
